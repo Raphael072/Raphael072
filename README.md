@@ -1,6 +1,6 @@
 
 # Hi there 👋, I'm Raphael!  
-### Front-End Developer | UI/UX Enthusiast | Lifelong Learner | Programmer
+### Front-End Developer | Computer Scientist| Lifelong Self Learner | Programmer
 
 🌟 **About Me:**  
 I’m a passionate **Front-End Developer** with a love for crafting intuitive and visually appealing user interfaces. Currently a first-year **General Studies** student exploring the endless possibilities of **UI/UX Design** and **Web Development**.
@@ -13,7 +13,8 @@ I’m a passionate **Front-End Developer** with a love for crafting intuitive an
 🚀 **Currently Learning:**  
 - JavaScript (ES6+), React  
 - Advanced CSS (Animations, Flexbox, Grid)  
-- UI/UX Design Best Practices  
+- UI/UX Design Best Practices
+- Cyber security 
 
 💡 **Fun Fact:**  
 I love transforming complex problems into simple, beautiful, and intuitive designs.  
