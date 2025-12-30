@@ -1,6 +1,6 @@
 
 # Hi there 👋, I'm Raphael!  
-### Front-End Developer | Computer Scientist| Lifelong Self Learner | Programmer
+### Front-End Developer | Computer Scientist| Mobile App Dev | Programmer
 
 🌟 **About Me:**  
 I’m a passionate **Front-End Developer** with a love for crafting intuitive and visually appealing user interfaces. Currently a first-year **General Studies** student exploring the endless possibilities of **UI/UX Design** and **Web Development**.
